@@ -1,4 +1,3 @@
-# anshshukla
 
 # 💫 About Me:
 I am a B.Tech Computer Science (AI & ML) student at Dr. A.P.J. Abdul Kalam Technical University, Lucknow, with a strong interest in Artificial Intelligence, Machine Learning, and emerging technologies. <br>
